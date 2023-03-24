@@ -1,0 +1,182 @@
+[
+  {
+    "_id" : "1",
+    "desc": "DataScientiest who has end-to-end project experience",
+    "exp": 1,
+    "profile": "Junior DataScientist",
+    "techs": [
+      "python","numpy","pandas","matplotlib"
+    ]
+  },
+  {
+    "_id" : "2",
+    "desc": "Devops Engineer who uses kubernetes, ansible, docker",
+    "exp": 12,
+    "profile": "Development",
+    "techs": [
+      "c","c++","java","kubernetes"
+    ]
+  },
+  {
+    "_id" : "3",
+    "desc": "Assoicate consultant architecture of software, Agile, Devops ",
+    "exp": 10,
+    "profile": "Architect",
+    "techs": [
+      "java","jee","spring","springbot","microservices","AWZ","Azure","devops"
+    ]
+  },
+  {
+    "_id" : "4",
+    "desc": "Senior Associate consultant for Mumbai Location",
+    "exp": 15,
+    "profile": "Senior Architect",
+    "techs": [
+      "java","jee","spring","springboot","microservices"
+    ]
+  },
+  {
+    "_id" : "5",
+    "desc": "Manager for onsite projects in US and UK",
+    "exp": 15,
+    "profile": "Senior Manager",
+    "techs": [
+      "Java","Blockchain","android","datascience"
+    ]
+  },
+  {
+    "_id" : "6",
+    "desc": "Senior Software engineer with java skillset expert in core java and concurrency",
+    "exp": 5,
+    "profile": "Java developer",
+    "techs": [
+      "java","jee","spring","springbot","microservices", "threads"
+    ]
+  },
+  {
+    "_id" : "7",
+    "desc": "Senior Software engineer for a Data department",
+    "exp": 15,
+    "profile": "Data Engineer",
+    "techs": [
+      "microservices","hadoop","bigdata"
+    ]
+  },
+  {
+    "_id" : "8",
+    "desc": "Software engineer that can work on projects using spring boot, mongodb and react",
+    "exp": 12,
+    "profile": "Developer",
+    "techs": [
+      "java","jee","spring","springbot","microservices"
+    ]
+  },
+  {
+    "_id" : "9",
+    "desc": "Senior Data Scientist",
+    "exp":15,
+    "profile": "Expert Datascientist",
+    "techs": [
+      "python","libraries"
+    ]
+  },
+  {
+    "_id" : "10",
+    "desc": "Associate consultant for Cloud AWS, PCF, Azure, Redhat",
+    "exp":10,
+    "profile": "Java Expert",
+    "techs": [
+      "java","jee","design patterns","springboot","cloud","microservices"
+    ]
+  },
+  {
+    "_id" : "11",
+    "desc": "Handle testing and assist frontend and backend team",
+    "exp":10,
+    "profile": "QA Tester",
+    "techs": [
+      "manual testing","functional testing","software testing","regression testing","cloud","microservices"
+    ]
+  },
+  {
+    "_id" : "12",
+    "desc": "Define the visual style and position relative to world-class design guidelines.",
+    "exp":5,
+    "profile": "UI/UX Developer",
+    "techs": [
+      "Figma","Sketch","Adobe Suite","Craft","A/B Testing","Agile"
+    ]
+  },
+  {
+    "_id" : "13",
+    "desc": "Responsible for planning and overseeing projects within an organisation",
+    "exp":1,
+    "profile": "Project Manager",
+    "techs": [
+      "Trello","Jira","Zenkit","Kanban Board","Gantt","HubSpot"
+    ]
+  },
+  {
+    "_id" : "14",
+    "desc": "Design, prototype, and architect scalable and fault-tolerant platforms.",
+    "exp":5,
+    "profile": "Back End Developer",
+    "techs": [
+      "Python","Django","Git","PostgreSQL","AWS","Docker"
+    ]
+  },
+  {
+    "_id" : "15",
+    "desc": "Design and build applications for the iOS platform.",
+    "exp":8,
+    "profile": "iOS Developer",
+    "techs": [
+      "Swift","Cocoa Touch","Core Data","Core Animation","Git","Shark"
+    ]
+  },
+  {
+    "_id" : "16",
+    "desc": "Build innovative applications using the latest technologies.",
+    "exp":12,
+    "profile": ".NET Core Developer",
+    "techs": [
+      ".NET Core","Azure","No SQL","Entity","Git","C#"
+    ]
+  },
+  {
+    "_id" : "17",
+    "desc": "Clean and analyse datasets.",
+    "exp":15,
+    "profile": "Senior Data Analyst",
+    "techs": [
+      "SAS","Python","R","Libraries","MySQL","Excel"
+    ]
+  },
+  {
+    "_id" : "18",
+    "desc": "Design and enhance cloud architecture for optimal performance, security, and usability.",
+    "exp":10,
+    "profile": "Senior DevOps Engineer",
+    "techs": [
+      "Kubernetes","Java","Cloud","Docker","BitBucket","Terraform"
+    ]
+  },
+  {
+    "_id" : "19",
+    "desc": "Integrate various third-party data sources",
+    "exp":10,
+    "profile": "Data Engineer",
+    "techs": [
+      "Python","PostgreSQL","Cloud","API Engineering","AWS","Pydantic"
+    ]
+  },
+  {
+    "_id" : "20",
+    "desc": "Creating reusable, scalable, and reliable software solutions",
+    "exp":13,
+    "profile": "Senior Software Engineer",
+    "techs": [
+      "React","Angular","VueJs","Java","AWS","Git"
+    ]
+  }
+]
